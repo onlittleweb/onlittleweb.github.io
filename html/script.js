@@ -8,10 +8,33 @@
             if (a === "forest") {
                 window.open("html/categories/forest.html");
             }
-
-            if (a === "youtube") {
-                window.open("https://www.youtube.com/");
+                if (a === "Forest") {
+                window.open("html/categories/forest.html");
             }
 
+            if (a === "cars") {
+                windows.open("html/categories/cars.html")
+            }
+                if (a === "Cars") {
+                windows.open("html/categories/cars.html")
+            }
+                if (a === "animal") {
+                window.open("html/categories/animal.html");
+            }
+                if (a === "Animal") {
+                window.open("html/categories/animal.html");
+            }
+                if (a === "precious stone") {
+                window.open("html/categories/preciousstone.html");
+            }
+                    if (a === "Precious Stone") {
+                window.open("html/categories/preciousstone.html");
+            }
+                    if (a === "motorcycle") {
+                window.open("html/categories/preciousstone.html");
+            }
+                   if (a === "Motorcycle") {
+                window.open("html/categories/preciousstone.html");
+            }
 
         }
