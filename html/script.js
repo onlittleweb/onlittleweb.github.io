@@ -22,19 +22,19 @@
                 window.open("html/categories/animal.html");
             }
                 if (a === "Animal") {
-                window.open("html/categories/animal.html");
+                window.open("html/animal.html");
             }
                 if (a === "precious stone") {
-                window.open("html/categories/preciousstone.html");
+                window.open("html/preciousstone.html");
             }
                     if (a === "Precious Stone") {
-                window.open("html/categories/preciousstone.html");
+                window.open("html/preciousstone.html");
             }
                     if (a === "motorcycle") {
-                window.open("html/categories/preciousstone.html");
+                window.open("html/preciousstone.html");
             }
                    if (a === "Motorcycle") {
-                window.open("html/categories/preciousstone.html");
+                window.open("html/preciousstone.html");
             }
 
         }
